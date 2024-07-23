@@ -84,7 +84,7 @@ Key models and techniques were applied to analyze and interpret sales data:
 2. **Regional Preferences** 🌍: Investigate cultural factors influencing roast type preferences to optimize product offerings.
 
 ## Data Access
-- **[Original Data Set](raw_data.csv)**: The raw dataset used for analysis.
+- **[Original Data Set](raw_data.xlsx)**: The raw dataset used for analysis.
 - **[`processed_data.xlsx`](coffee_sales_analysis.xlsx)**: The cleaned and processed dataset used in the analysis.
 
 Feel free to explore the provided files for more details.
